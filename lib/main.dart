@@ -85,7 +85,7 @@ class MyApp extends StatelessWidget {
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
         title: 'Samrat Chaudhary',
-        //correct buy dhruv sept
+        //correct buy dhruv sept git par bhi hai
         navigatorKey: navigatorKey,
         theme: ThemeData(
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.orange),
