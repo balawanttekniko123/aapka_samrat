@@ -1,0 +1,2 @@
+C:/samrat_chaudhary/android/app/.cxx/Debug/705a486z/x86/CMakeFiles/edit_cache.dir
+C:/samrat_chaudhary/android/app/.cxx/Debug/705a486z/x86/CMakeFiles/rebuild_cache.dir

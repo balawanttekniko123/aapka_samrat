@@ -1,0 +1,2 @@
+C:/balawntWorkSpace/apaka_samrat_june/samrat_chaudhary/samrat_chaudhary/android/app/.cxx/Debug/41g2m5x6/x86/CMakeFiles/edit_cache.dir
+C:/balawntWorkSpace/apaka_samrat_june/samrat_chaudhary/samrat_chaudhary/android/app/.cxx/Debug/41g2m5x6/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+D:/oldProject/samrat_chaudhary/samrat_chaudhary/android/app/.cxx/RelWithDebInfo/2f1c5c83/x86/CMakeFiles/edit_cache.dir
+D:/oldProject/samrat_chaudhary/samrat_chaudhary/android/app/.cxx/RelWithDebInfo/2f1c5c83/x86/CMakeFiles/rebuild_cache.dir

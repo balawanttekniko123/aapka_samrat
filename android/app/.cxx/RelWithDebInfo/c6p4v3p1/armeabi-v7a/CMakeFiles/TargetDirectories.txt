@@ -1,0 +1,2 @@
+C:/samrat_chaudhary/android/app/.cxx/RelWithDebInfo/c6p4v3p1/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/samrat_chaudhary/android/app/.cxx/RelWithDebInfo/c6p4v3p1/armeabi-v7a/CMakeFiles/rebuild_cache.dir
